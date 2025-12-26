@@ -1,7 +1,7 @@
 # Student-registration-webpages
 A modern, responsive website for Keerthi Tuitions, designed to showcase academic offerings, enable student registrations, and provide easy access to study materials.
 
-✨ Features
+Features
 
 Clean, dark-themed UI with responsive design
 
@@ -15,7 +15,7 @@ WhatsApp quick-contact integration
 
 Secure PhonePe QR support for payments
 
-🛠️ Tech Stack
+Tech Stack
 
 HTML5 – Structure
 
